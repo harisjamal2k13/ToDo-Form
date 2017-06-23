@@ -1,0 +1,51 @@
+body{
+    margin-top: 5%;
+        color: lawngreen;
+        background: peachpuff;
+}
+.container{
+    padding-top: 15px;
+    margin: 0 auto;
+    width: 600px;
+    background-color: royalblue;
+}
+table{
+    margin: 0 auto;
+width: 50%;
+text-align: center;
+
+}
+button{background: lawngreen;
+}
+
+fieldset{
+    margin: 15px auto;
+    width: 350px
+}
+
+input{
+    float: right
+}
+button{
+    margin-left: 11px;
+}
+h1{
+    margin: 20px 200px;
+    color: lawngreen;
+}
+
+h3{
+    margin: 10px 225px;
+    color: orange;
+}
+h4{
+    border: 2px solid black;
+}
+.del{
+    position: relative;
+    left: 125px;
+    background: orange;
+}
+img{
+    float: right;
+}
